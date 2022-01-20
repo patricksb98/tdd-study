@@ -1,0 +1,19 @@
+Leilao (Alura\Leilao\Tests\Model\Leilao)
+ [x] Leilao nao deve receber lances repetidos
+ [x] Leilao deve receber lances with data set "2-lances"
+ [x] Leilao deve receber lances with data set "1-lance"
+ [x] Leilao nao deve aceitar mais de 5 lances por usuario
+
+Avaliador (Alura\Leilao\Tests\Service\Avaliador)
+ [x] Avaliador deve encontrar maior lance with data set #0
+ [x] Avaliador deve encontrar maior lance with data set #1
+ [x] Avaliador deve encontrar maior lance with data set #2
+ [x] Avaliador deve encontrar menor lance with data set #0
+ [x] Avaliador deve encontrar menor lance with data set #1
+ [x] Avaliador deve encontrar menor lance with data set #2
+ [x] Avaliador deve buscar 3 maiores lances with data set #0
+ [x] Avaliador deve buscar 3 maiores lances with data set #1
+ [x] Avaliador deve buscar 3 maiores lances with data set #2
+ [x] Leilao vazio nao pode ser avaliado
+ [x] Leilao finalizado nao pode ser avaliado
+

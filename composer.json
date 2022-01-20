@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Alura\\Leilao\\": "src/"
+        }
+    },
+
+    "require": {
+        "php": "^7.2||^8.0",
+        "phpunit/phpunit": "^9"
+    }
+}
